@@ -7,9 +7,9 @@
     "mirror",
     "googledrive"
   ],
-  "repository": "https://github.com/imsawankumar/Torrent-Mirror-Bot",
-  "success_url": "https://github.com/imsawankumar/Torrent-Mirror-Bot",
-  "website": "https://github.com/imsawankumar/Torrent-Mirror-Bot",  
+  "repository": "https://github.com/Asankhe100/torrentbot",
+  "success_url": "https://github.com/Asankhe100/torrentbot",
+  "website": "https://github.com/Asankhe100/torrentbot",  
   "env": {
     "BOT_TOKEN": {
       "description": "The telegram bot token that you get from @BotFather",
